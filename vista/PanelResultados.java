@@ -27,7 +27,6 @@ public class PanelResultados extends JPanel {
         this.setVisible(true);
         this.add(spResultados);
     }
-.
     public static void mostrarResultados(String texto) {
         taResultados.append(texto);
     }
