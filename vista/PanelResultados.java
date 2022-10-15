@@ -23,11 +23,11 @@ public class PanelResultados extends JPanel {
         spResultados.setBounds(9, 15, 460, 80);
 
         this.setLayout(null);
-        this.setBackground(Color.decode("#5c9993"));
+        this.setBackground(Color.decode("#5ee67b"));
         this.setVisible(true);
         this.add(spResultados);
     }
-
+.
     public static void mostrarResultados(String texto) {
         taResultados.append(texto);
     }
