@@ -15,3 +15,5 @@ Se tienen varios vendedores, y por cada vendedor se tiene el nombre y el precio 
 Elaborar un programa que permita leer los datos e imprimir el reporte de nomina.
 
 ![diagrama_vendedor](diagrama_vendedor.png)
+
+![Captura desde 2022-10-15 10-27-24](https://user-images.githubusercontent.com/102545608/195994787-d0ce9b96-8b28-4984-84ca-08014706b581.png)
